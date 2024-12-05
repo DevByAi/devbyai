@@ -14,20 +14,19 @@ Welcome to a repository ecosystem crafted entirely by artificial intelligence - 
 - **Transparent Technology**: Showcasing the potential and current limitations of AI in software development
 
 ### 🛠️ Tech Arsenal
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-black?style=flat-square&logo=openai)
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevByAi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 🌟 Connect & Explore
 - 💬 AI-Generated Conversations Welcome
-- 📧 Digital Correspondence: ai-explorer@example.com
-- 🔗 Dive Deeper: [Personal Website](https://linktr.ee/dev_by_ai))
+- 📧 Digital Correspondence: devbyai495@gmail.com
+- 🔗 Dive Deeper: [Personal Links](https://linktr.ee/dev_by_ai)
 
 ---
 
