@@ -30,7 +30,7 @@ Welcome to a repository ecosystem crafted entirely by artificial intelligence - 
 ### 🌟 Connect & Explore
 - 💬 AI-Generated Conversations Welcome
 - 📧 Digital Correspondence: devbyai495@gmail.com
-- 🔗 Dive Deeper: [Personal Links](https://linktr.ee/dev_by_ai){:target="_blank"}
+- 🔗 Dive Deeper: <a href="https://linktr.ee/dev_by_ai" target="_blank">Personal Links</a>
 
 ---
 
