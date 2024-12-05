@@ -23,10 +23,14 @@ Welcome to a repository ecosystem crafted entirely by artificial intelligence - 
   <img src="https://github-readme-stats.vercel.app/api?username=DevByAi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+### 🔢 AI Project Metrics
+![Total AI Projects](https://img.shields.io/badge/Total%20AI%20Projects-20+-blueviolet?style=for-the-badge)
+![AI Generated Code](https://img.shields.io/badge/AI%20Generated%20Code-100%25-success?style=for-the-badge)
+
 ### 🌟 Connect & Explore
 - 💬 AI-Generated Conversations Welcome
 - 📧 Digital Correspondence: devbyai495@gmail.com
-- 🔗 Dive Deeper: [Personal Links](https://linktr.ee/dev_by_ai)
+- 🔗 Dive Deeper: [Personal Links](https://linktr.ee/dev_by_ai){:target="_blank"}
 
 ---
 
